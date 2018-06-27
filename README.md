@@ -44,7 +44,7 @@ Fig. 3: Experimental setup in scenario 3
 
 Dataset Description
 --
-For a specific number of people in each scenario, 8000 radar signals are collected, where 200 received signals are recorded for each measurement. Each signal in a radar sample contains 1280 sampling points representing the 5 meters detection range (for the spatial resolution of 0.0039 meter). 248,000 radar signals are generated in scenarios 1 and 2, with a total of 128,000 radar signals in scenario 3. The dataset is in .mat format with each measurement, the dataset is described as Table 2.
+For a specific number of people in each scenario, 8000 radar signals are collected, where 200 received signals are recorded for each measurement. Each signal in a radar sample contains 1280 sampling points representing the 5 meters detection range (for the spatial resolution of 0.0039 meter). 248,000 radar signals are generated in scenarios 1 and 2, with a total of 128,000 radar signals in scenario 3. The dataset is in `.mat format` with each measurement, the dataset is described as Table 2.
 
 Table 2 Dataset Description
 ![](https://github.com/yangxiuzhu777/IR-UWB-Radar-Signal-Dataset-for-Dense-People-Counting/raw/master/Table2.png)
