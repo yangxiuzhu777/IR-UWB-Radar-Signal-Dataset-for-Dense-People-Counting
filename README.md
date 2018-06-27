@@ -22,7 +22,9 @@ Table 1 Setup of the NVA-R661 radar system
 
 Experimental Setup
 --
-The radar data is acquired in an open lobby, where the radar is installed at a height of 1.8 meters, with the detecting range of 5 meters and a central angle of 90 degrees. The dataset consists of three dense scenarios.
+The radar data is acquired in an open lobby, where the radar is installed at a height of 1.8 meters, with the detecting range of 5 meters and a central angle of 90 degrees. 
+
+The dataset consists of three dense scenarios.
 
 `Scenarios 1 and 2  (Fig. 2)`
 
