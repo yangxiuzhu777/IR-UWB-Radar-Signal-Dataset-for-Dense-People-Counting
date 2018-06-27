@@ -12,12 +12,15 @@ The IR-UWB radar data from a select number of people in a space is acquired by a
 
 ![](https://github.com/yangxiuzhu777/IR-UWB-Radar-Signal-Dataset-for-Dense-People-Counting/raw/master/Fig1.png)  
 
-Novleda NVA-R661 radar module
+Fig. 1: Novleda NVA-R661 radar module
 <br>
 Parameters of the radar system are listed in Table 1.
+
 Table 1 Setup of the NVA-R661 radar system
-Output pulse center frequency	Bandwidth, -10 dB	Sampling frequency in the receiver
-6.8 GHz	2.3 GHz	39 GHz
+  Output pulse center frequency  | Bandwidth, -10 dB | Sampling frequency in the receiver
+  ------------- | -------------
+ 6.8 GHz  | 2.3 GHz | 39 GHz
+
 
 Experimental Setup
 --
