@@ -1,9 +1,13 @@
 IR-UWB Radar signal dataset for dense people counting 
+==
 Overview
+--
 People counting is one of the hottest issues in sensing applications. The impulse radio ultra-wideband (IR-UWB) radar provides a device-free solution to count people without illumination and privacy concerns. However, the difficulty to acquire labeled radar data for the specific number of people limits the development of algorithms. 
+
 This dataset consists of 376,000 impulse radio ultra-wideband (IR-UWB) radar signals from at most 20 people in three dense scenarios, including 0-20 people randomly walking in a constrained area with densities of 3 and 4 persons per square meter, and at most 15 people stand in a queue with an average distance of 10 centimeters.
 
 Radar System  
+--
 The IR-UWB radar data from a select number of people in a space is acquired by a Novelda NVA-R661 radar module, shown in Fig. 1. 
 
 Fig. 1 : Novleda NVA-R661 radar module
