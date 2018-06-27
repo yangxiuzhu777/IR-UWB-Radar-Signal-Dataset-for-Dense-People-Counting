@@ -10,9 +10,8 @@ Radar System
 --
 The IR-UWB radar data from a select number of people in a space is acquired by a Novelda NVA-R661 radar module, shown in Fig. 1. 
 
-![](https://github.com/yangxiuzhu777/IR-UWB-Radar-Signal-Dataset-for-Dense-People-Counting/master/Fig1.png)  
-
-Fig. 1 : Novleda NVA-R661 radar module
+![Novleda NVA-R661 radar module](https://github.com/yangxiuzhu777/IR-UWB-Radar-Signal-Dataset-for-Dense-People-Counting/raw/master/Fig1.png)  
+<br>
 Parameters of the radar system are listed in Table 1.
 Table 1 Setup of the NVA-R661 radar system
 Output pulse center frequency	Bandwidth, -10 dB	Sampling frequency in the receiver
@@ -26,8 +25,12 @@ Scenarios 1 and 2  (Fig. 2)
 Scenario 3  (Fig. 3)
 At most 15 people stand in a queue with an average distance of 10 centimeters.
 44 testers participate in experiments for acquiring diverse data from different people.
-        
-Fig. 2: Experimental setup in scenarios 1 and 2      Fig. 3: Experimental setup in scenario 3
+
+![](https://github.com/yangxiuzhu777/IR-UWB-Radar-Signal-Dataset-for-Dense-People-Counting/raw/master/Fig2.png) <br>
+Fig. 2: Experimental setup in scenarios 1 and 2      
+
+![](https://github.com/yangxiuzhu777/IR-UWB-Radar-Signal-Dataset-for-Dense-People-Counting/raw/master/Fig3.png) <br>
+Fig. 3: Experimental setup in scenario 3
 
 Dataset Description
 --
