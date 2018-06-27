@@ -17,6 +17,7 @@ Output pulse center frequency	Bandwidth, -10 dB	Sampling frequency in the receiv
 6.8 GHz	2.3 GHz	39 GHz
 
 Experimental Setup
+--
 The radar data is acquired in an open lobby, where the radar is installed at a height of 1.8 meters, with the detecting range of 5 meters and a central angle of 90 degrees. The dataset consists of three dense scenarios.
 Scenarios 1 and 2  (Fig. 2)
 0-20 people randomly walking in a constrained area with densities of 3 and 4 persons per square meter respectively. 
@@ -27,6 +28,7 @@ At most 15 people stand in a queue with an average distance of 10 centimeters.
 Fig. 2: Experimental setup in scenarios 1 and 2      Fig. 3: Experimental setup in scenario 3
 
 Dataset Description
+--
 For a specific number of people in each scenario, 8000 radar signals are collected, where 200 received signals are recorded for each measurement. Each signal in a radar sample contains 1280 sampling points representing the 5 meters detection range (for the spatial resolution of 0.0039 meter). 248,000 radar signals are generated in scenarios 1 and 2, with a total of 128,000 radar signals in scenario 3. The dataset is in .mat format with each measurement, the dataset is described as Table 2.
 Table 2 Dataset Description
 Scenario 1	Scenario 2	Scenario 3 
