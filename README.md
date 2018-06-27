@@ -1,4 +1,4 @@
-IR-UWB Radar signal dataset for dense people counting 
+IR-UWB Radar Signal Dataset for Dense People Counting 
 ==
 Overview
 --
