@@ -17,9 +17,7 @@ Fig. 1: Novleda NVA-R661 radar module
 Parameters of the radar system are listed in Table 1.
 
 Table 1 Setup of the NVA-R661 radar system
-  Output pulse center frequency  | Bandwidth, -10 dB | Sampling frequency in the receiver
-  ------------- | -------------
- 6.8 GHz  | 2.3 GHz | 39 GHz
+![](https://github.com/yangxiuzhu777/IR-UWB-Radar-Signal-Dataset-for-Dense-People-Counting/raw/master/Fig4.png)
 
 
 Experimental Setup
