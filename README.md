@@ -52,4 +52,4 @@ Table 2 Dataset Description
 
 Reference
 --
-[1] 
+[1] X. Yang, W. Yin, L. Li and L. Zhang, "Dense People Counting Using IR-UWB Radar with a Hybrid Feature Extraction Method," arXiv preprint arXiv:1806.06629. 
